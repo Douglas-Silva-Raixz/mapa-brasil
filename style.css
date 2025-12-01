@@ -6,4 +6,5 @@
 .topo{
     background-color: var(--verde_2);
     height: 75px;
+    border-radius: 2px;
 }
