@@ -20,7 +20,10 @@
 .principal{
     background-color: rgb(182, 182, 182);
     align-items: center;
+
 }
-.legenda{
-    
+.parana{
+height: 10px;
+width: 10px;
+background-color: var(--verde_1);
 }
