@@ -1,10 +1,17 @@
  :root{
     --verde_1: #0faf00;
     --verde_2: #003500;
+    --verde_3: #000f00;
+    --amarelo: #fcd604;
  }
  
 .topo{
     background-color: var(--verde_2);
     height: 75px;
-    border-radius: 2px;
+    border-radius: 7px;
+    border-color: var(--verde_3);
+}
+.titulo{
+    color: var(--amarelo);
+    
 }
