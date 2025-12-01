@@ -10,6 +10,7 @@
     height: 75px;
     border-radius: 7px;
     border-color: var(--verde_3);
+    position: fixed;
 }
 .titulo{
     color: var(--amarelo);
