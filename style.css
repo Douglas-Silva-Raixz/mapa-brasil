@@ -1,0 +1,9 @@
+ :root{
+    --verde_1: #0faf00;
+    --verde_2: #003500;
+ }
+ 
+.topo{
+    background-color: var(--verde_2);
+    height: 75px;
+}
